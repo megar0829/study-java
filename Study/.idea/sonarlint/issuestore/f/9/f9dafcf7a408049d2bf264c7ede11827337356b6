@@ -1,0 +1,8 @@
+
+J
+java:S1121".Extract the assignment out of this expression.(³’×D8°ï¸ßÒ1
+Q
+java:S1854"5Remove this useless assignment to local variable "a".(³’×D8µï¸ßÒ1
+C
+java:S1481"&Remove this unused "a" local variable.(®š‹á8µï¸ßÒ1
+F	java:S106"+Replace this use of System.out by a logger.(³’×D8«Š¸ßÒ1
