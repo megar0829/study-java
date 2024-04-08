@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb8a1e7-a981-46da-b103-eabf8da1de8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/Study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/0/b/0bebb8d9aa1300cfe670576a8923d4c216d1db9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/0/d/0dc38b2e1188b5e1f6083461594745c7f4657041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/1/4/14844d91f086dee2e2c6614f97042ff74eda9f74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/1/7/1763acc160ec703884a8405660d4cf559f3e1259" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/2/e/2e0eb8bfe7af8843552f947656fa040772ef5e40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/4/3/43939dd17fadb0aec120313c534277f6431d0e14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/4/5/45e9098ecd371e4f3d9a3ab732827a14651d4525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/4/d/4d5fadd68940967f99478e04458e31f25a9a5eb7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/5/c/5c9b81be2a105d7293f117840abbdbe370f963ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/8/6/8642b0dd79c033f4c2eba17b6cfcefc436fe5330" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/8/9/8989f46a377701233696f7ad2b73672ed48b0285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/9/9/991d759b539a543867b01c3027d842785ec3d354" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/b/9/b902f62fa17682a6c1bdeb4ffc0657f4a1d666f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/c/6/c6d9c63a1539f6b0439a6e908f28c0dfcfee571c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/e/8/e8c424af6eb0b3b781e1f6aef7cfe2fe95e5151a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/f/7/f7d07a3a89f5e69a68a697a9bd0fffeeae7b166a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/f/9/f9dafcf7a408049d2bf264c7ede11827337356b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/0/b/0bebb8d9aa1300cfe670576a8923d4c216d1db9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/0/d/0dc38b2e1188b5e1f6083461594745c7f4657041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/1/4/14844d91f086dee2e2c6614f97042ff74eda9f74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/1/7/1763acc160ec703884a8405660d4cf559f3e1259" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/2/e/2e0eb8bfe7af8843552f947656fa040772ef5e40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/4/3/43939dd17fadb0aec120313c534277f6431d0e14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/4/5/45e9098ecd371e4f3d9a3ab732827a14651d4525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/4/d/4d5fadd68940967f99478e04458e31f25a9a5eb7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/5/c/5c9b81be2a105d7293f117840abbdbe370f963ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/8/6/8642b0dd79c033f4c2eba17b6cfcefc436fe5330" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/8/9/8989f46a377701233696f7ad2b73672ed48b0285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/9/9/991d759b539a543867b01c3027d842785ec3d354" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/b/9/b902f62fa17682a6c1bdeb4ffc0657f4a1d666f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/c/6/c6d9c63a1539f6b0439a6e908f28c0dfcfee571c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/e/8/e8c424af6eb0b3b781e1f6aef7cfe2fe95e5151a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/f/7/f7d07a3a89f5e69a68a697a9bd0fffeeae7b166a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/f/9/f9dafcf7a408049d2bf264c7ede11827337356b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/java-start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/CommentJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/HelloJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/HelloJava2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/Var8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/ex/VarEx1Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/ex/VarEx2Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/java-start/src/variable/ex/VarEx3Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/CommentJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/HelloJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/HelloJava2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/Var8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/ex/VarEx1Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/ex/VarEx2Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/out/production/Study/variable/ex/VarEx3Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/java-start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/java-start/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2enwJ8LCTr4oE41S3DceSpWCWOh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb8a1e7-a981-46da-b103-eabf8da1de8c" name="Changes" comment="" />
+      <created>1712553577099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712553577099</updated>
+      <workItem from="1712553578338" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
